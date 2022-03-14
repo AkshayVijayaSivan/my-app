@@ -12,7 +12,7 @@
 	<artifactId>my-spring-boot-web</artifactId>
 	<version>1.0</version>
 	<name>my-spring-boot-web</name>
-	<description>Kevin Casey&apos;s SimpliLearnPhase-5 Assessment</description>
+	
 
 	<properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -52,7 +52,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>my-spring-boot-web-aws-exe</finalName>
+	
 	</build>
 
 </project>
